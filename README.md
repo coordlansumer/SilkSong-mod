@@ -1,5 +1,5 @@
 # SILKSONG mod
-press ALT + 0 to wake up gui
+press ALT + 0 to wake up gui (x)
 
 # team cherry define hornet
 use to develop
